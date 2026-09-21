@@ -1,0 +1,4 @@
+* text=auto eol=lf
+
+*.ico binary
+pnpm-lock.yaml linguist-generated=true -diff

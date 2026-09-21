@@ -8,7 +8,7 @@ export default defineNuxtConfig({
   experimental: {
     typedPages: true,
   },
-  compatibilityDate: '2025-07-15',
+  compatibilityDate: '2026-09-21',
   vite: {
     plugins: [tailwindcss()],
   },
