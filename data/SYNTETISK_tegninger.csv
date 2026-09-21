@@ -1,0 +1,61 @@
+id,tegningsnummer,revisjon,tittel,malestokk,prosjekt_referanse,filnavn,format,registrert_dato,status
+1,TN-2026-0001,B,Dekksplan 2,1:100,PRJ-2044,TN-2026-0001_RevB.pdf,PDF,02.02.2026,Under revisjon
+2,TN-2026-0002,C,Rørføring maskinrom 3,1/50,PRJ-2050,TN-2026-0002_RevC.pdf,PDF,03/03/26,Utkast
+3,TN-2026-0003,D,Ventilasjonsplan lugar 4,1/20,PRJ-2061,TN-2026-0003_RevD.pdf,PDF,2026-04-04,Godkjent
+4,TN-2026-0004,E,Bottom Frame Detail 5,1 : 100,PRJ-2031,TN-2026-0004_RevE.pdf,PDF,05.05.2026,Under revisjon
+5,TN-2026-0005,F,Styrehus layout 6,1:200,PRJ-2044,TN-2026-0005_RevF.dwg,DWG,06/06/26,Utkast
+6,TN-2026-0006,A,Skottplan 7,1:50,,TN-2026-0006_RevA.pdf,PDF,2026-07-07,Godkjent
+7,TN-2026-0007,B,Ankerspill fundament 8,1:100,PRJ-2061,TN-2026-0007_RevB.pdf,PDF,08.08.2026,Under revisjon
+8,TN-2026-0008,C,Bridge Panel Layout 1,1/50,PRJ-2031,TN-2026-0008_RevC.pdf,PDF,09/09/26,Utkast
+9,TN-2026-0009,D,Baugport detalj 2,1/20,PRJ-2044,TN-2026-0009_RevD.pdf,PDF,2026-10-10,Godkjent
+10,TN-2026-0003,E,Kjølrør trase 3,1 : 100,PRJ-2050,TN-2026-0010_RevE.dwg,DWG,11.11.2026,Under revisjon
+11,TN-2026-0011,F,Lastelukedetalj 4,1:200,PRJ-2061,TN-2026-0011_RevF.pdf,PDF,12/12/26,Utkast
+12,TN-2026-0012,A,Hull Section 5,1:50,PRJ-2031,TN-2026-0012_RevA.pdf,PDF,2026-01-13,Godkjent
+13,TN-2026-0013,B,Dekksplan 6,1:100,PRJ-2044,TN-2026-0013_RevB.pdf,PDF,14.02.2026,Under revisjon
+14,TN-2026-0014,C,Rørføring maskinrom 7,1/50,PRJ-2050,TN-2026-0014_RevC.pdf,PDF,15/03/26,Utkast
+15,TN-2026-0015,D,Ventilasjonsplan lugar 8,1/20,PRJ-2061,TN-2026-0015_RevD.dwg,DWG,2026-04-16,Godkjent
+16,TN-2026-0016,E,Bottom Frame Detail 1,1 : 100,PRJ-2031,TN-2026-0016_RevE.pdf,PDF,17.05.2026,Under revisjon
+17,TN-2026-0017,F,Styrehus layout 2,,PRJ-2044,TN-2026-0017_RevF.pdf,PDF,18/06/26,Utkast
+18,TN-2026-0018,A,Skottplan 3,1:50,PRJ-2050,TN-2026-0018_RevA.pdf,PDF,2026-07-19,Godkjent
+19,TN-2026-0019,B,Ankerspill fundament 4,1:100,PRJ-2061,TN-2026-0019_RevB.pdf,PDF,20.08.2026,Under revisjon
+20,TN-2026-0020,C,Bridge Panel Layout 5,1/50,PRJ-2031,TN-2026-0020_RevC.dwg,DWG,21/09/26,Utkast
+21,TN-2026-0021,D,Baugport detalj 6,1/20,PRJ-2044,TN-2026-0021_RevD.pdf,PDF,2026-10-22,Godkjent
+22,TN-2026-0022,E,Kjølrør trase 7,1 : 100,PRJ-2050,TN-2026-0022_RevE.pdf,PDF,23.11.2026,Under revisjon
+23,TN-2026-0023,F,Lastelukedetalj 8,1:200,PRJ-2061,TN-2026-0023_RevF.pdf,PDF,24/12/26,Utkast
+24,TN-2026-0024,A,Hull Section 1,1:50,PRJ-2031,TN-2026-0024_RevA.pdf,PDF,2026-01-25,Godkjent
+25,TN-2026-0025,B,Dekksplan 2,1:100,PRJ-2044,TN-2026-0025_RevB.dwg,DWG,26.02.2026,Under revisjon
+26,TN-2026-0026,C,Rørføring maskinrom 3,1/50,PRJ-2050,TN-2026-0026_RevC.pdf,PDF,27/03/26,Utkast
+27,TN-2026-0027,D,Ventilasjonsplan lugar 4,1/20,PRJ-2061,TN-2026-0027_RevD.pdf,PDF,2026-04-01,Godkjent
+28,TN-2026-0028,E,Bottom Frame Detail 5,1 : 100,,TN-2026-0028_RevE.pdf,PDF,02.05.2026,Under revisjon
+29,TN-2026-0029,F,Styrehus layout 6,1:200,PRJ-2044,TN-2026-0029_RevF.pdf,PDF,03/06/26,Utkast
+30,TN-2026-0030,A,Skottplan 7,1:50,PRJ-2050,TN-2026-0030_RevA.dwg,DWG,2026-07-04,Godkjent
+31,TN-2026-0031,B,Ankerspill fundament 8,1:100,PRJ-2061,TN-2026-0031_RevB.pdf,PDF,05.08.2026,Under revisjon
+32,TN-2026-0032,C,Bridge Panel Layout 1,1/50,PRJ-2031,TN-2026-0032_RevC.pdf,PDF,06/09/26,Utkast
+33,TN-2026-0033,D,Baugport detalj 2,1/20,PRJ-2044,TN-2026-0033_RevD.pdf,PDF,2026-10-07,Godkjent
+34,TN-2026-0034,E,Kjølrør trase 3,1 : 100,PRJ-2050,TN-2026-0034_RevE.pdf,PDF,08.11.2026,Under revisjon
+35,TN-2026-0035,F,Lastelukedetalj 4,1:200,PRJ-2061,TN-2026-0035_RevF.dwg,DWG,09/12/26,Utkast
+36,TN-2026-0036,A,Hull Section 5,1:50,PRJ-2031,TN-2026-0036_RevA.pdf,PDF,2026-01-10,Godkjent
+37,TN-2026-0037,B,Dekksplan 6,1:100,PRJ-2044,TN-2026-0037_RevB.pdf,PDF,11.02.2026,Under revisjon
+38,TN-2026-0038,C,Rørføring maskinrom 7,1/50,PRJ-2050,TN-2026-0038_RevC.pdf,PDF,12/03/26,Utkast
+39,TN-2026-0039,D,Ventilasjonsplan lugar 8,,PRJ-2061,TN-2026-0039_RevD.pdf,PDF,2026-04-13,Godkjent
+40,TN-2026-0040,E,Bottom Frame Detail 1,1 : 100,PRJ-2031,TN-2026-0040_RevE.dwg,DWG,14.05.2026,Under revisjon
+41,TN-2026-0041,F,Styrehus layout 2,1:200,PRJ-2044,TN-2026-0041_RevF.pdf,PDF,15/06/26,Utkast
+42,TN-2026-0042,A,Skottplan 3,1:50,PRJ-2050,TN-2026-0042_RevA.pdf,PDF,2026-07-16,Godkjent
+43,TN-2026-0043,B,Ankerspill fundament 4,1:100,PRJ-2061,TN-2026-0043_RevB.pdf,PDF,17.08.2026,Under revisjon
+44,TN-2026-0044,C,Bridge Panel Layout 5,1/50,PRJ-2031,TN-2026-0044_RevC.pdf,PDF,18/09/26,Utkast
+45,TN-2026-0022,D,Baugport detalj 6,1/20,PRJ-2044,TN-2026-0045_RevD.dwg,DWG,2026-10-19,Godkjent
+46,TN-2026-0046,E,Kjølrør trase 7,1 : 100,PRJ-2050,TN-2026-0046_RevE.pdf,PDF,20.11.2026,Under revisjon
+47,TN-2026-0047,F,Lastelukedetalj 8,1:200,PRJ-2061,TN-2026-0047_RevF.pdf,PDF,21/12/26,Utkast
+48,TN-2026-0048,A,Hull Section 1,1:50,PRJ-2031,TN-2026-0048_RevA.pdf,PDF,2026-01-22,Godkjent
+49,TN-2026-0049,B,Dekksplan 2,1:100,PRJ-2044,TN-2026-0049_RevB.pdf,PDF,23.02.2026,Under revisjon
+50,TN-2026-0050,C,Rørføring maskinrom 3,1/50,,TN-2026-0050_RevC.dwg,DWG,24/03/26,Utkast
+51,TN-2026-0051,D,Ventilasjonsplan lugar 4,1/20,PRJ-2061,TN-2026-0051_RevD.pdf,PDF,2026-04-25,Godkjent
+52,TN-2026-0052,E,Bottom Frame Detail 5,1 : 100,PRJ-2031,TN-2026-0052_RevE.pdf,PDF,26.05.2026,Under revisjon
+53,TN-2026-0053,F,Styrehus layout 6,1:200,PRJ-2044,TN-2026-0053_RevF.pdf,PDF,27/06/26,Utkast
+54,TN-2026-0054,A,Skottplan 7,1:50,PRJ-2050,TN-2026-0054_RevA.pdf,PDF,2026-07-01,Godkjent
+55,TN-2026-0055,B,Ankerspill fundament 8,1:100,PRJ-2061,TN-2026-0055_RevB.dwg,DWG,02.08.2026,Under revisjon
+56,TN-2026-0056,C,Bridge Panel Layout 1,1/50,PRJ-2031,TN-2026-0056_RevC.pdf,PDF,03/09/26,Utkast
+57,TN-2026-0057,D,Baugport detalj 2,1/20,PRJ-2044,TN-2026-0057_RevD.pdf,PDF,2026-10-04,Godkjent
+58,TN-2026-0058,E,Kjølrør trase 3,1 : 100,PRJ-2050,TN-2026-0058_RevE.pdf,PDF,05.11.2026,Under revisjon
+59,TN-2026-0059,F,Lastelukedetalj 4,1:200,PRJ-2061,TN-2026-0059_RevF.pdf,PDF,06/12/26,Utkast
+60,TN-2026-0060,A,Hull Section 5,1:50,PRJ-2031,TN-2026-0060_RevA.dwg,DWG,2026-01-07,Godkjent
